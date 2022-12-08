@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://epicloot.ru/sitemap_index.xml
